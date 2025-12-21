@@ -2,7 +2,7 @@
   "lines": [
     {
       "id": "kw",
-      "name": "酷我音乐",
+      "name": "黄源",
       "enabled": true,
       "searchApi": "fetchSearchMusic",
       "detailApi": "fetchMusicDetail",
@@ -14,7 +14,7 @@
     },
     {
       "id": "wy",
-      "name": "网易音乐",
+      "name": "红源",
       "enabled": true,
       "searchApi": "wySearchMusic",
       "detailApi": "wyMusicDetail",
@@ -30,7 +30,7 @@
     },
     {
       "id": "tx",
-      "name": "小绿源",
+      "name": "绿源",
       "enabled": true,
       "searchApi": "txSearchMusic",
       "detailApi": "txMusicDetail",
@@ -42,7 +42,7 @@
     },
     {
       "id": "mg",
-      "name": "小粉源",
+      "name": "粉源",
       "enabled": true,
       "searchApi": "mgSearchMusic",
       "detailApi": "mgMusicDetail",
@@ -53,3 +53,4 @@
     }
   ]
 }
+
