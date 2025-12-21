@@ -13,8 +13,8 @@
       ]
     },
     {
-      "id": "网易音乐",
-      "name": "红源",
+      "id": "wy",
+      "name": "网易云音乐",
       "enabled": true,
       "searchApi": "wySearchMusic",
       "detailApi": "wyMusicDetail",
