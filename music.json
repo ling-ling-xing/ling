@@ -2,7 +2,7 @@
   "lines": [
     {
       "id": "kw",
-      "name": "小黄源",
+      "name": "酷我音乐",
       "enabled": true,
       "searchApi": "fetchSearchMusic",
       "detailApi": "fetchMusicDetail",
@@ -14,7 +14,7 @@
     },
     {
       "id": "wy",
-      "name": "小红源",
+      "name": "网易音乐",
       "enabled": true,
       "searchApi": "wySearchMusic",
       "detailApi": "wyMusicDetail",
