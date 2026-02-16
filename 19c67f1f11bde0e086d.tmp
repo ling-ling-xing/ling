@@ -1,0 +1,56 @@
+{
+  "version": "1.1.1",
+  "updateUrl": "https://raw.githubusercontent.com/ling-ling-xing/ling/main/LXMusic.js",
+  "description": "新增音源文件，修复播放问题",
+  
+  "ui": {
+    "theme": {
+      "background": "linear-gradient(145deg, #2B32B2, #1488CC)",
+      "cardStyle": "backdrop-filter: blur(10px); border-radius: 24px; border: 1px solid rgba(255,255,255,0.2);",
+      "shadow": "0 20px 40px rgba(0,0,0,0.3), 0 0 0 1px rgba(255,255,255,0.1) inset"
+    },
+    "typography": {
+      "titleFont": "bold 20px system-ui",
+      "bodyFont": "15px system-ui",
+      "titleColor": "#ffffff",
+      "bodyColor": "rgba(255,255,255,0.9)",
+      "accentColor": "#FFD700"
+    },
+    "animation": {
+      "entry": "fadeInUp 0.4s cubic-bezier(0.2, 0.9, 0.3, 1)",
+      "exit": "fadeOutDown 0.3s ease"
+    },
+    "components": {
+      "version": {
+        "badge": true,
+        "background": "rgba(255,255,255,0.15)",
+        "padding": "6px 12px",
+        "borderRadius": "40px"
+      },
+      "button": {
+        "primary": {
+          "background": "white",
+          "color": "#1488CC",
+          "borderRadius": "40px",
+          "padding": "12px 24px",
+          "hoverScale": 1.02
+        },
+        "secondary": {
+          "background": "transparent",
+          "color": "white",
+          "border": "1.5px solid rgba(255,255,255,0.3)",
+          "borderRadius": "40px",
+          "padding": "12px 24px"
+        }
+      }
+    }
+  },
+  
+  "layout": {
+    "template": "card",
+    "spacing": "20px",
+    "padding": "24px",
+    "maxWidth": "320px",
+    "alignment": "center"
+  }
+}
