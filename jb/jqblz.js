@@ -2,7 +2,7 @@
 // @name         停用剪切板
 // @namespace    vz
 // @version     2.0
-// @description  拦截网页自动写入剪贴板
+// @description  拦截网页写入剪切板响应
 // @run-at       document-start
 // @match        *://*/*
 // @grant        vz-lingmiao
